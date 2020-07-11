@@ -1,0 +1,7 @@
+mbdfez
+make bdf easy
+
+make bdf fonts using a base bdf file without glyphs,
+  filling in the glyphs from an image file
+
+MIT
